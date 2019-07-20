@@ -32,7 +32,7 @@
 [HI_IN]:README.hi_in.md
 [RU]:README.ru.md
 
-阿波罗11号制导计算机（AGC）中指令模块（Comanche055）和登月模块（Luminary099）原始代码。由[虚拟 AGC][3] 和 [MIT 科学博物馆][4] 的伙计们完成电子化。本仓库的目的是存储阿波罗11号原始代码。当然，倘若在本仓库或原始代码扫描件[Luminary 099][5] 及 [Comanche 055][6] 发现问题，或者任何我可能漏掉的文件，欢迎提交PRs。
+阿波罗11号制导计算机（AGC）中指令模块（Comanche055）和登月模块（Luminary099）原始代码。由[虚拟 AGC][3] 和 [MIT 科学博物馆][4] 的伙计们完成电子化。本仓库的目的是存储阿波罗11号原始代码。当然，倘若在本仓库或原始代码扫描件 [Luminary 099][5] 及 [Comanche 055][6] 发现问题，或者任何我可能漏掉的文件，欢迎提交PRs。
 
 ## 编译
 
@@ -55,7 +55,7 @@ Luminary099 | Part of the source code for Luminary 1A, the Lunar Module's (LM) A
 
 本 AGC 程序亦可称为: Colossus 2A
 
-根据 R-577 报告规定，本程序将用于指令模块。本程序为 DSR 项目 55-23870 铺路，（美国）                国家航空航天局的载人航天中心联合 The Instrumentation Laboratory、麻省理工学院、剑桥及MASS签属 NAS 9-4065 合同，共同资助本项目。
+根据 R-577 报告规定，本程序将用于指令模块。本程序为 DSR 项目 55-23870 铺路，（美国）                国家航空航天局的载人航天中心联合 The Instrumentation Laboratory、麻省理工学院、剑桥及 MASS 签属 NAS 9-4065 合同，共同资助本项目。
 
 提交者                 | Role | 日期
 :-------------------- | :--- | :---
